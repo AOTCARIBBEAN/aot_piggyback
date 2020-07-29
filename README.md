@@ -1,6 +1,9 @@
 # aot_piggyback
 - DISCORD : https://discord.gg/feWevSY
 
+# OPEN MENU
+- Press F9
+
 # This system is 4 types of carrying system.
 - 1.Drag
 - 2.PiggyBack
