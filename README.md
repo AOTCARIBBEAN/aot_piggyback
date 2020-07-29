@@ -2,7 +2,7 @@
 - DISCORD : https://discord.gg/feWevSY
 
 # This system is 4 types of carrying system.
-- 1.drag
+- 1.Drag
 - 2.PiggyBack
 - 3.CarryPeople
 - 4.TakeHostage
