@@ -1,5 +1,5 @@
 # aot_piggyback
-- DISCORD https://discord.gg/feWevSY
+- DISCORD : https://discord.gg/feWevSY
 
 # This system is 4 types of carrying system.
 - 1.drag
